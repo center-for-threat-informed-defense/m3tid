@@ -39,7 +39,7 @@ jobs:
     needs: docs
     runs-on: ubuntu-latest
     env:
-      AZURE_STORAGE_ACCOUNT: m3tid
+      AZURE_STORAGE_ACCOUNT: measuremaxmature
       AZURE_STORAGE_SAS_TOKEN: ${{ secrets.AZURE_SAS_TOKEN }}
       BRANCH_NAME: ${{ github.head_ref || github.ref_name }}
       STATICRYPT_PASS: ${{ secrets.STATICRYPT_PASS }}
