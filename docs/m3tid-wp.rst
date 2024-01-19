@@ -155,8 +155,7 @@ And that is the goal of the M3TID project, a maturity model that any organizatio
 of a TID-driven security program.
 However, the details become a bit more nuanced.
 
-If you are just starting out in your security program, or you have not yet reached compliance with your applicable regulatory requirements, then
-moving directly to TID may not be the best decision.
+If you are just starting out in your security program, or you have not yet reached compliance with your applicable regulatory requirements, then moving directly to TID may not be the best decision.
 To implement TID, it assumes that an organization already has a functioning, foundational security program.
 This type of work is typically in the realm of compliance frameworks.
 Whether that be PCI, SOC2, RMF, or CMMC to list just a few, these are the starting point.
@@ -165,8 +164,7 @@ Whether that be PCI, SOC2, RMF, or CMMC to list just a few, these are the starti
 
 Compliance frameworks do several things for an organization:
 
--  Provide a set of standardized guidelines, best practices, and requirements for organizations to follow in order to meet regulatory and industry-
-  specific security standards.
+-  Provide a set of standardized guidelines, best practices, and requirements for organizations to follow in order to meet regulatory and industry-specific security standards.
 
 -  Focus on ensuring that organizations maintain a baseline level of security and adhere to legal and contractual obligations.
 
@@ -175,8 +173,7 @@ Compliance frameworks do several things for an organization:
 -  Typically cover a broad range of security controls, including administrative, physical, and technical measures.
 
 Applying these best practices and baseline security behaviors well, on a consistent basis, is the foundation you need.
-Security hygiene, patching, secure configurations, user training, boundary and endpoint defenses, appropriate policies and security processes …these
-are the basic hygiene requirements that you need to have in place.
+Security hygiene, patching, secure configurations, user training, boundary and endpoint defenses, appropriate policies and security processes …these are the basic hygiene requirements that you need to have in place.
 Once this initial program is in place, organizations can begin to ask questions like “We’ve invested, but are we secure?” “How do we know our defenses
 work?” “How do we focus and prioritize our security resources to have the best impact for the business?” Once an organization is ready to begin asking
 and answering these questions, and they’ve met that initial foundational security bar, they are ready to start considering TID approaches mature their
