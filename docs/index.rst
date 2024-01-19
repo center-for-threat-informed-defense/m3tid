@@ -15,6 +15,7 @@ mollit anim id est laborum.
     :caption: Contents
 
     introduction
+    m3tid-wp
 
 Notice
 ------
