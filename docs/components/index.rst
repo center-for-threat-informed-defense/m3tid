@@ -15,6 +15,6 @@ Expanded definitions of Threat Informed Defense Dimensions, Components, and Leve
 
 **Scoring Spreadsheet**
 
-Attached here is the scoring spreadsheet to download for self-evaluation: :download:`M3TIDScoring <M3TIDScoring.xlsx>`
+Attached here is the scoring spreadsheet to download for self-evaluation: :download:
 
 .. TODO Add Scoring Spreadsheet

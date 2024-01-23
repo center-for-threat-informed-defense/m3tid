@@ -13,7 +13,7 @@ security investments – whether they be people, processes, or technology.
 
 
 Leveraging ATT&CK [#f1]_
-------------------
+-------------------------
 
 There are many types of threat information, and many sources from which to learn about threats. MITRE’s ATT&CK® provides a convenient aggregation of publicly reported TTPs 
 used by adversaries and other valuable information about how to detect and mitigate them. It has become a common way to categorize and refer to adversary TTPs across the 

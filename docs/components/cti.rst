@@ -7,7 +7,7 @@ basis for assessing how threat informed an organization’s CTI program is. This
 
 
 Depth of Threat Data [#f1]_
---------------------
+----------------------------
 
 What level of information (roughly relative to the Pyramid of Pain) is being used to track adversaries.
 
