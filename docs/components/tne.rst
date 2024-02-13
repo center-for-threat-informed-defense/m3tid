@@ -2,12 +2,12 @@
 Test & Evaluation
 ==================
 
-This section outlines the key components that have been identified for the Test & Evaluation dimension as well as maturity levels within the components. These components and 
-levels form the basis for assessing how threat informed an organization’s T&E program is. This assessment can be conducted using the companion spreadsheet published with this 
-white paper.
+This section outlines the key components that have been identified for the Test & Evaluation dimension as well as maturity levels within the components. These components and levels form the basis for assessing how threat informed an organization’s T&E program is. This assessment can be conducted using the companion spreadsheet published with this white paper.
 
 Type of Testing
 ----------------
+
+Are cybersecurity tests focused on helping defenders improve against prioritized threats?
 
 1. None 
 2. Security Control / Risk Assessment (reactive, compliance-focused) 
@@ -19,6 +19,8 @@ Type of Testing
 Frequency of Testing
 -----------------------------
 
+Do your tests keep pace with changing adversaries and defended technologies?
+
 1. None 
 2. Annual 
 3. Semi-Annual 
@@ -28,6 +30,8 @@ Frequency of Testing
 
 Test Planning
 ------------------------
+
+Are tests coordinated and prioritized on the most relevant threat behaviors?
 
 1. None 
 2. Ad hoc 
@@ -39,6 +43,8 @@ Test Planning
 Test Execution
 ---------------------------------
 
+Does testing cover adversary TTPs in addition to traditional IOCs?
+
 1. None 
 2. Scanners or other tooling, not threat-focused 
 3. Commodity tooling, IOC-focused 
@@ -48,6 +54,8 @@ Test Execution
 
 Test Results
 ---------------------------------
+
+How effectively do test results cause improvements in defensive measures?
 
 1. None 
 2. Results generated 
