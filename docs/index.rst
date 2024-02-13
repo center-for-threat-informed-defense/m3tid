@@ -1,4 +1,4 @@
-M3TID |1.0|
+M3TID |version|
 ===============
 
 Background
@@ -30,8 +30,6 @@ The intent of the M3TID project is that organizations, from security practitione
     conclusion
     components/index
     spreadsheet
-
-.. TODO remove introduction.rst
 
 
 Notice
