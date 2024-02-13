@@ -71,10 +71,3 @@ the Results tab of that calculator.
 After an organization conducts this initial assessment and understands the current status of their threat informed defensive program, the scoring and associated visualizations
 highlight opportunities to improve their program. The section that follows will describe approaches to improving threat-informed defense maturity once an initial baseline is
 understood.
-
-
-
-Scoring Spreadsheet
---------------------
-
-Attached here is the scoring spreadsheet to download for self-evaluation: `M3TIDScoring <https://github.com/center-for-threat-informed-defense/m3tid>`__
