@@ -23,12 +23,13 @@ The intent of the M3TID project is that organizations, from security practitione
 
     whatistid
     gettingstarted
-    implementing
+    dimensions
     measuring
     maxmature
     forward
     conclusion
     components/index
+    spreadsheet
 
 .. TODO remove introduction.rst
 
