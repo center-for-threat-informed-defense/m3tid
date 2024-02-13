@@ -1,4 +1,4 @@
-M3TID |version|
+M3TID |1.0|
 ===============
 
 Background
