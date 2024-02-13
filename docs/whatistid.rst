@@ -18,7 +18,7 @@ There are many types of threat information and many sources from which to learn 
 
    ATT&CK Framework
 
-David Bianco famously depicted this potential with his “Pyramid of Pain ”, which illustrates how difficult it is for an adversary to evade a defense that is informed by, and effective against, different levels of information about adversary tradecraft. In the Pyramid of Pain, indicators such as IP addresses, hash values, and domain names are shown to be easy for an adversary to alter and thus evade defenses that are dependent on them. However, TTPs are positioned at the top of the pyramid, reflecting the difficulty an adversary would have if a defender was effectively detecting and mitigating at that level. 
+David Bianco famously depicted this potential with his “Pyramid of Pain” [#f2]_, which illustrates how difficult it is for an adversary to evade a defense that is informed by, and effective against, different levels of information about adversary tradecraft. In the Pyramid of Pain, indicators such as IP addresses, hash values, and domain names are shown to be easy for an adversary to alter and thus evade defenses that are dependent on them. However, TTPs are positioned at the top of the pyramid, reflecting the difficulty an adversary would have if a defender was effectively detecting and mitigating at that level. 
 
 .. figure:: _static/pyramidofpain.png
    :alt: Pyramid of Pain
