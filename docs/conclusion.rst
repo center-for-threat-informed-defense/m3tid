@@ -16,9 +16,5 @@ The M3TID project team includes:
 * Steve Luke
 * Ivy Oeltjenbruns
 
-The project team would also like to thank the following for their contributions and technical review:
-
-* ...
-
 
 
