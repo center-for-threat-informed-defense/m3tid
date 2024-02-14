@@ -3,7 +3,7 @@ Measuring Threat-Informed Defense
 
 Now that Threat-Informed Defense has been defined, its importance emphasized, and the three main dimensions have been covered, there are three key questions: What specific activities do I need to become Threat-Informed? How Threat-Informed is my security program now? What are the next steps I need to take to improve my level of Threat-Informed Defense?
 
-Each of these questions lead to a need to measure Threat-Informed Defense, something that has not been done before. In Appendix A, the three Dimensions of Threat-Informed Defense are further decomposed into an initial set of components, with measures for each component from least-to-most threat-informed. In the sections that follow the methodology to leverage those components to assess a security program are explained. The methodology is then applied to an exemplar organization for demonstration purposes.
+Each of these questions lead to a need to measure Threat-Informed Defense, something that has not been done before. On the Key Components and Maturity Levels page, the three Dimensions of Threat-Informed Defense are further decomposed into an initial set of components, with measures for each component from least-to-most threat-informed. In the sections that follow the methodology to leverage those components to assess a security program are explained. The methodology is then applied to an exemplar organization for demonstration purposes.
 
 Methodology
 -----------
@@ -15,7 +15,7 @@ To ensure consistency, the following steps were developed to approach Threat-Inf
 * Within a Threat-Informed Defense Dimension (e.g. CTI), all of its subordinate components are weighted equally.
 * At the Threat-Informed Defense Dimensions level, the Dimensions themselves are weighted.
 
-See Appendix A for the defined key components and maturity levels for all three dimensions of Threat-Informed Defense. These component and maturity levels form the basis for the assessment and scoring further described below.
+See the Key Components and Maturity Levels page for the defined key components and maturity levels for all three dimensions of Threat-Informed Defense. These component and maturity levels form the basis for the assessment and scoring further described below.
 
 
 Weighting and Scoring
