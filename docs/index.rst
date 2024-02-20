@@ -35,7 +35,7 @@ The intent of the M3TID project is that organizations, from security practitione
 Notice
 ------
 
-© 2023 MITRE Engenuity. Approved for public release. Document number
+© 2024 MITRE Engenuity. Approved for public release. Document number
 REPLACE_WITH_PRS_NUMBER.
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this
