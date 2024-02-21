@@ -19,6 +19,7 @@ Those changes result in the following updated scores and the accompanying graphs
 
 .. figure:: _static/ex2scores.png
    :alt: Improved TID and Component Scores
+   :scale: 75%
    :align: center
 
    Improved TID and Component Scores
@@ -26,6 +27,7 @@ Those changes result in the following updated scores and the accompanying graphs
 
 .. figure:: _static/ex2kiviatdim.png
    :alt: Kiviat Diagram: Comparison of Improved TID Dimensions
+   :scale: 75%
    :align: center
 
    Kiviat Diagram: Comparison of Improved TID Dimensions
@@ -33,6 +35,7 @@ Those changes result in the following updated scores and the accompanying graphs
 
 .. figure:: _static/ex2kiviatall.png
    :alt: Kiviat Diagram: Comparison of all Improved TID Components
+   :scale: 75%
    :align: center
 
    Kiviat Diagram: Comparison of all Improved TID Components
