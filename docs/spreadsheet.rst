@@ -1,5 +1,11 @@
 Scoring Spreadsheet
 ====================
 
-Attached here is the scoring spreadsheet to download for self-evaluation: :download:`M3TIDScoringSpreadsheet <M3TIDScoringSpreadsheet.xlsx>`
+Download the scoring spreadsheet for self-evaluation
 
+.. raw:: html
+
+    <p>
+        <a class="btn btn-primary" target="_blank" href="../xlsx/M3TIDScoringSpreadsheet.xlsx">
+        <i class="fa fa-file-excel-o"></i> Download Scoring Spreadsheet – Excel</a>
+    </p>
