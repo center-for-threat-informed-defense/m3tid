@@ -26,7 +26,7 @@ In the sections that follow, the three main Dimensions of TID will be explained,
 Cyber Threat Intelligence - Know the Adversary
 ----------------------------------------------
 
-The first major dimension of Threat-Informed Defense is Cyber Threat Intelligence, which is focused on understanding the adversary. This dimension measures how well the organization understands known behaviors of cyber adversaries; which specific adversaries are targeting its industry, technologies, or geography; and their motivations and typical objectives. Ultimately CTI programs enable organizations to produce a tailored threat model of the highest priority adversary behaviors, which ultimately informs the rest of the defensive program. Example capabilities such as the Top 10 ATT&CK Technique Calculator [#f1]_ can help organizations with this initial tailoring based on a variety of factors.
+The first major dimension of Threat-Informed Defense is Cyber Threat Intelligence, which is focused on understanding the adversary. This dimension measures how well the organization understands known behaviors of cyber adversaries; which specific adversaries are targeting its industry, technologies, or geography; and their motivations and typical objectives. Ultimately CTI programs enable organizations to produce a tailored threat model of the highest priority adversary behaviors, which ultimately informs the rest of the defensive program. Example capabilities such as the `Top 10 ATT&CK Technique Calculator <https://top-attack-techniques.mitre-engenuity.org/calculator>`_ can help organizations with this initial tailoring based on a variety of factors.
 
 .. figure:: _static/topattackttp.png
    :alt: CTID Top ATT&CK TTP Calculator
@@ -34,7 +34,7 @@ The first major dimension of Threat-Informed Defense is Cyber Threat Intelligenc
 
    CTID Top ATT&CK TTP Calculator
 
-The Cyber Threat Intelligence Lifecycle [#f2]_ consists of Direction, Collection, Processing, Analysis, and Dissemination. The components in the M3TID model exist as the inputs and outputs of the phases of the cycle. The combination of these components amount to how detailed an organization’s threat model and understanding of that threat model is.
+The `Cyber Threat Intelligence Lifecycle <https://recordedfuture.com/blog/threat-intelligence-lifecycle-phases>`_ consists of Direction, Collection, Processing, Analysis, and Dissemination. The components in the M3TID model exist as the inputs and outputs of the phases of the cycle. The combination of these components amount to how detailed an organization’s threat model and understanding of that threat model is.
 
 .. figure:: _static/rflifecycle.png
    :alt: Recorded Future Threat Intelligence Lifecycle
@@ -57,7 +57,7 @@ As described in more detail below, ultimately this understanding from CTI direct
 Defensive Measures - Proactively Defend
 ----------------------------------------
 
-Defensive Measures is core to the concept of Threat-Informed Defense. Once an organization understands the adversary, if they do not implement real change in their organization based on what they learn then they are not achieving the impact of Threat-Informed Defense. Importantly, many organizations might consider that Threat-Informed Defense only applies to technical defenses, but the concept of being Threat-Informed should apply across all aspects of a security program. An example of evolving defensive measures is the Summitting the Pyramid (StP) [#f3]_  effort from the Center, which focuses on scoring and improving the quality of analytics to create detections that are more robust and core to Adversary behaviors.
+Defensive Measures is core to the concept of Threat-Informed Defense. Once an organization understands the adversary, if they do not implement real change in their organization based on what they learn then they are not achieving the impact of Threat-Informed Defense. Importantly, many organizations might consider that Threat-Informed Defense only applies to technical defenses, but the concept of being Threat-Informed should apply across all aspects of a security program. An example of evolving defensive measures is the `Summitting the Pyramid (StP) <https://mitre-engenuity.org/cybersecurity/center-for-threat-informed-defense/our-work/summiting-the-pyramid/>`_  effort from the Center, which focuses on scoring and improving the quality of analytics to create detections that are more robust and core to Adversary behaviors.
 
 .. figure:: _static/stp.png
    :alt: CTID Summiting the Pyramid
@@ -80,7 +80,7 @@ Although improvements in defenses typically result in a technical defensive meas
 Testing & Evaluation - Learn and Improve
 -----------------------------------------
 
-Testing and Evaluation helps an organization validate and grow. By testing against adversary realistic TTPs, an organization can validate their defenses and illuminate their gaps. By continuously testing based on updated threat knowledge and new approaches to adversary TTPs, an organization maintains a realistic picture of their security posture. One example of leverage more tailored, threat-informed testing is to focus adversary emulation or purple-teaming testing on the typical behaviors and attack flow of specific, relevant adversaries. The graphic below shows the high level FIN6 attack plan [#f4]_ taken from the Center’s Adversary Emulation library.
+Testing and Evaluation helps an organization validate and grow. By testing against adversary realistic TTPs, an organization can validate their defenses and illuminate their gaps. By continuously testing based on updated threat knowledge and new approaches to adversary TTPs, an organization maintains a realistic picture of their security posture. One example of leverage more tailored, threat-informed testing is to focus adversary emulation or purple-teaming testing on the typical behaviors and attack flow of specific, relevant adversaries. The graphic below shows the high level `FIN6 attack plan <https://medium.com/mitre-engenuity/center-releases-fin6-adversary-emulation-plan-775d8c5ebe9b>`_ taken from the Center’s `Adversary Emulation library <https://mitre-engenuity.org/cybersecurity/center-for-threat-informed-defense/adversary-emulation-library/>`_.
 
 .. figure:: _static/fin6advemu.png
    :alt: CTID FIN6 Adversary Emulation Plan
@@ -98,11 +98,4 @@ The key Components of T&E are:
 4. Test Execution
 5. Test Results
 
-
-.. rubric:: References
-
-.. [#f1] https://top-attack-techniques.mitre-engenuity.org/calculator
-.. [#f2] https://recordedfuture.com/blog/threat-intelligence-lifecycle-phases
-.. [#f3] https://mitre-engenuity.org/cybersecurity/center-for-threat-informed-defense/our-work/summiting-the-pyramid/
-.. [#f4] https://medium.com/mitre-engenuity/center-releases-fin6-adversary-emulation-plan-775d8c5ebe9b
 
