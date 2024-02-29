@@ -1,4 +1,4 @@
-Scoring Spreadsheet
+Appendix B - Scoring Spreadsheet
 ====================
 
 Download the scoring spreadsheet for self-evaluation
