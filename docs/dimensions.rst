@@ -34,7 +34,7 @@ The first major dimension of Threat-Informed Defense is Cyber Threat Intelligenc
 
    CTID Top ATT&CK TTP Calculator
 
-The `Cyber Threat Intelligence Lifecycle <https://recordedfuture.com/blog/threat-intelligence-lifecycle-phases>`_ consists of Direction, Collection, Processing, Analysis, and Dissemination. The components in the M3TID model exist as the inputs and outputs of the phases of the cycle. The combination of these components amount to how detailed an organization’s threat model and understanding of that threat model is.
+The `Cyber Threat Intelligence Lifecycle <https://recordedfuture.com/blog/threat-intelligence-lifecycle-phases>`_, a product from `Recorded Future <https://www.recordedfuture.com/>`_, consists of Direction, Collection, Processing, Analysis, and Dissemination. The components in the M3TID model exist as the inputs and outputs of the phases of the cycle. The combination of these components amount to how detailed an organization’s threat model and understanding of that threat model is.
 
 .. figure:: _static/rflifecycle.png
    :alt: Recorded Future Threat Intelligence Lifecycle
