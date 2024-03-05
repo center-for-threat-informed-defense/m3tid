@@ -37,14 +37,14 @@ Example Scoring
 
 As a notional example of implementing this assessment and scoring approach, imagine a fictitious Company A. Company A has invested in their security program and met a minimum acceptable level of compliance with their industry standard. They are beginning their approach to implement Threat-Informed Defense but are doing so unevenly. Based on their current investments, the bullets below describe their current state of Threat-Informed Defense in each Dimension:
 
-Company A: In-house implementation of a nascent threat-informed defense. 
+Company A: In-house implementation of a nascent threat-informed defense.
 
-* CTI: The organization has CTI on IOCs and software used across multiple ATT&CK Techniques. Analysts occasionally read freely available generic reports and disseminate IOCs to the rest of the team. 
-* DM: Despite excellent CTI, the company has not leveraged that CTI effectively to prioritize their investments in Defensive Measures. They automatically apply patches, collect data as per standard best-practices, run a set of imported SIGMA rules, respond to alerts as needed, and do not conduct any deception operations. 
-* T&E: The company is only minimally investing in Testing & Evaluation, limiting their current testing to an annual penetration test that is not tailored to any specific adversary or set of adversary behaviors.  
+* CTI: The organization has CTI on IOCs and software used across multiple ATT&CK Techniques. Analysts occasionally read freely available generic reports and disseminate IOCs to the rest of the team.
+* DM: Despite excellent CTI, the company has not leveraged that CTI effectively to prioritize their investments in Defensive Measures. They automatically apply patches, collect data as per standard best-practices, run a set of imported SIGMA rules, respond to alerts as needed, and do not conduct any deception operations.
+* T&E: The company is only minimally investing in Testing & Evaluation, limiting their current testing to an annual penetration test that is not tailored to any specific adversary or set of adversary behaviors.
 
-To aid in leveraging this methodology for assessment, this paper is being released with a Proof of Concept spreadsheet-based calculator. The screenshots below are taken from 
-the Results tab of that calculator. 
+To aid in leveraging this methodology for assessment, this paper is being released with a Proof of Concept spreadsheet-based calculator. The screenshots below are taken from
+the Results tab of that calculator.
 
 
 .. figure:: _static/ex1scores.png
@@ -77,6 +77,11 @@ understood.
 Scoring Spreadsheet
 -------------------
 
-Attached here is the scoring spreadsheet to download for self-evaluation: :download:`M3TIDScoringSpreadsheet <M3TIDScoringSpreadsheet.xlsx>`
+The scoring spreadsheet is available here for download:
 
+.. raw:: html
 
+    <p>
+        <a class="btn btn-primary" target="_blank" download href="../M3TIDScoringSpreadsheet.xlsx">
+        <i class="fa fa-file-excel-o"></i> Download Scoring Spreadsheet – Excel</a>
+    </p>
