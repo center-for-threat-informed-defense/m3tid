@@ -28,6 +28,7 @@ The intent of the M3TID project is that organizations, from security practitione
     maxmature
     forward
     conclusion
+    changelog
     components/index
     spreadsheet
 
