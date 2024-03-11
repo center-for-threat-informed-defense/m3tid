@@ -6,7 +6,6 @@ an organization’s defenses. It outlines key components of cybersecurity likely
 of that knowledge for each. This model should be considered a hypothesis of what constitutes an effective threat-informed defense, to be revised and improved as evidence is 
 gathered through its use.  
 
-
 Acknowledgements
 ------------------
 
@@ -16,5 +15,9 @@ The M3TID project team includes:
 * Steve Luke
 * Ivy Oeltjenbruns
 
+
+The project team would also like to thank the experts internal and external to MITRE who provided technical review:
+
+* 
 
 
