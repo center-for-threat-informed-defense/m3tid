@@ -3,6 +3,12 @@ Moving Forward
 
 Once an organization has scored themselves with this model, they can identify key gaps to fill. The Center recommends an organization to start with any component that is currently scored as a zero because there is significant differentiated value in moving from zero to one in this model. Once an organization scores at least a one in each component (including the scores of service providers, if various portions of the Security program are out-sourced), the Center recommends that organizations work to improve the CTI and Defensive Measures scores in parallel as a priority. Testing and evaluating those components is valuable, but they must first exist to test and evaluate. Because of this, the overall score puts less weight on the Test and Evaluation dimension.  
 
+.. figure:: _static/CTIDresources.jpg
+   :alt: Alignment of CTID Projects to M3TID
+   :align: center
+
+   Alignment of CTID Projects to M3TID
+
 The M3TID maturity model is meant to be a straightforward, easy to use tool for organizations to measure their current state, assess progress, and continuously refine and optimize their security posture by prioritizing based on threat-informed principles. The Center continues to provide a number of resources that reinforce or enable continuous improvement in all three of the Threat-Informed Defense Dimensions. By leveraging M3TID to understand their current maturity level and identifying areas for improvement, organizations can make targeted investments and strategic decisions to strengthen their defenses against the ever-evolving threat landscape. In the long run, this maturity model will help organizations optimize their resources, enhance their cybersecurity capabilities, and better protect their digital assets and infrastructure from potential attacks. 
 
 
