@@ -9,7 +9,7 @@ gathered through its use.
 Acknowledgements
 ------------------
 
-The project team would like to thank our CTID participant companies for their support, engagement, and feedback. We would also like to thank all the experts internal and external to MITRE who provided their knowledge and technical review. 
+The project team would like to thank our CTID participant companies for their support, engagement, and feedback. We would also like to thank all the experts internal and external to MITRE who contributed to M3TID. 
 
 The M3TID project team includes:
 
