@@ -33,7 +33,7 @@ Complementary to the depth component score above, this component reflects roughl
 Relevance of Threat Data
 ------------------------
 
-Where is the threat information coming from and how timely is it 
+Where is the threat information coming from and how timely is it? 
 
 1. None 
 2. Generic reports or freely available reporting 
@@ -45,7 +45,7 @@ Where is the threat information coming from and how timely is it 
 Utilization of Threat Information
 ---------------------------------
 
-How is the threat information being used by an organization
+How is the threat information being used by an organization?
 
 1. None 
 2. Lightly / occasionally read 
@@ -57,7 +57,7 @@ How is the threat information being used by an organization
 Dissemination of Threat Reporting
 ---------------------------------
 
-What threat information is passed along within an organization [#f4]_
+What threat information is passed along within an organization? [#f4]_
 
 1. None 
 2. Tactical reporting with highly perishable information (IOCs) 
