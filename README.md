@@ -30,10 +30,10 @@ Set the extension's TOC:Levels setting to "2..6"
 
 To get started, read the project website. It provides an overview of the goals and methodologies and includes details on how and why to use this methodology.
 
-| Resource                                                                                       | Description                                                   |
-| ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| Resource                                                                       | Description                                   |
+| ------------------------------------------------------------------------------ | --------------------------------------------- |
 | [Project Website](https://center-for-threat-informed-defense.github.io/m3tid/) | Complete documentation for the M3TID project. |
-| [Scoring Spreadsheet](docs/M3TIDScoringSpreadsheet.xlsx)                          | A spreadsheet for self-evaluation.        |
+| [Scoring Spreadsheet](docs/M3TIDScoringSpreadsheet.xlsx)                       | A spreadsheet for self-evaluation.            |
 
 
 ## Getting Involved
@@ -77,9 +77,8 @@ directly for more general inquiries.
 
 ## Notice
 
-<!-- TODO Add PRS prior to publication. -->
-
-Copyright 2024 MITRE Engenuity. Approved for public release. Document number REPLACE_WITH_PRS_NUMBER
+Copyright 2024 MITRE Engenuity. Approved for public release. Document number(s)
+REPLACE_WITH_PRS_NUMBER.
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this
 file except in compliance with the License. You may obtain a copy of the License at

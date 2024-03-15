@@ -18,8 +18,9 @@
 # -- Project information -----------------------------------------------------
 
 project = "M3TID"
-copyright = "2024, Center for Threat-Informed Defense"
 author = "Center for Threat-Informed Defense"
+copyright_years = "2024"
+prs_numbers = "REPLACE_WITH_PRS_NUMBER"
 
 # The full version, including alpha/beta/rc tags
 version = "v1.0.0"
@@ -43,6 +44,10 @@ templates_path = ["_templates"]
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 
+rst_prolog = f"""
+.. |copyright_years| replace:: {copyright_years}
+.. |prs_numbers| replace:: {prs_numbers}
+"""
 
 # -- Options for HTML output -------------------------------------------------
 
@@ -61,7 +66,10 @@ html_copy_source = False
 html_show_sourcelink = False
 html_show_sphinx = False
 html_use_smartypants = False
-
+html_context = {
+    "copyright_years": copyright_years,
+    "prs_numbers": prs_numbers,
+}
 html_theme_options = {
     "analytics_id": "G-VX41LMPC2R",
     "display_version": True,
