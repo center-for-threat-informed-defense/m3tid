@@ -2,12 +2,11 @@
 
 <!-- TODO Put a one paragraph summary of the project here. -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
-dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+The Measure, Maximize, Mature Threat-Informed Defense (M3TID) project extends this concept of leveraging Threat understanding to improve a security program by working towards an actionable definition of Threat-Informed Defense (TID) and its associated key activities. This project is created and maintained by the
+[MITRE Engenuity Center for Threat-Informed Defense](https://ctid.mitre-engenuity.org/)
+in futherance of our mission to advance the start of the art and and the state of the
+practice in threat-informed defense globally. The project is funded by our [research
+participants](https://mitre-engenuity.org/cybersecurity/center-for-threat-informed-defense/our-work/m3tid/#research-participants).
 
 **Table Of Contents:**
 
@@ -29,32 +28,31 @@ Set the extension's TOC:Levels setting to "2..6"
 <!-- TODO Write one paragraph about how users should get started,
      and update the table of resources below. -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
-dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+To get started, read the project website. It provides an overview of the goals and methodologies and includes details on how and why to use this methodology.
 
-| Resource        | Description              |
-| --------------- | ------------------------ |
-| [Resource 1](#) | Description of resource. |
-| [Resource 2](#) | Description of resource. |
-| [Resource 3](#) | Description of resource. |
+| Resource                                                                       | Description                                   |
+| ------------------------------------------------------------------------------ | --------------------------------------------- |
+| [Project Website](https://center-for-threat-informed-defense.github.io/m3tid/) | Complete documentation for the M3TID project. |
+| [Scoring Spreadsheet](docs/M3TIDScoringSpreadsheet.xlsx)                       | A spreadsheet for self-evaluation.            |
+
 
 ## Getting Involved
 
 <!-- TODO Add some bullets telling users how to get involved. -->
 
-There are several ways that you can get involved with this project and help
-advance threat-informed defense:
+There are several ways that you can get involved with this project and help advance
+threat-informed defense:
 
-- **Way to get involved 1.** Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-- **Way to get involved 2.** Ut enim ad minim veniam, quis nostrud exercitation ullamco
-  laboris nisi ut aliquip ex ea commodo consequat.
-- **Way to get involved 3.** Duis aute irure dolor in reprehenderit in voluptate velit
-  esse cillum dolore eu fugiat nulla pariatur.
+- **Review the project model and methodology and tell us what you think.** We welcome
+  your feedback on any aspect of the project: from high-level concepts to low-level
+  technical details.
+- **Request analytics and observables.** Send your [analytic
+  requests]([/stix/attack-flow-schema-2.0.0.json](https://github.com/center-for-threat-informed-defense/m3tid/issues/new/choose))
+  to our team. As we have time, we will work them through the process and publish scores
+  and analysis.
+- **Submit your own analytics and observables.** We encourage you to use the methodology
+  to work through analytics or observables and send your results in a pull request so
+  that we can make them available to the entire community.
 
 ## Questions and Feedback
 
@@ -79,9 +77,8 @@ directly for more general inquiries.
 
 ## Notice
 
-<!-- TODO Add PRS prior to publication. -->
-
-Copyright 2023 MITRE Engenuity. Approved for public release. Document number REPLACE_WITH_PRS_NUMBER
+Copyright 2024 MITRE Engenuity. Approved for public release. Document number(s)
+REPLACE_WITH_PRS_NUMBER.
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this
 file except in compliance with the License. You may obtain a copy of the License at
