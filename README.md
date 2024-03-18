@@ -78,7 +78,7 @@ directly for more general inquiries.
 ## Notice
 
 Copyright 2024 MITRE Engenuity. Approved for public release. Document number(s)
-REPLACE_WITH_PRS_NUMBER.
+CT0105.
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this
 file except in compliance with the License. You may obtain a copy of the License at
