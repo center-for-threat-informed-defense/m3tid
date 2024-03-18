@@ -11,6 +11,7 @@ community. The tool has 6 main tabs, described below:
 * DM: Definitions of DM Components and Levels, and DM maturity scoring.
 * T&E: Definitions of T&E Components and Levels, and T&E maturity scoring.
 * Results: Tab that calculates the organization's Dimension-level and Overall TID scores.
+* Example Historical Change: Example tab provided to show how to track change over time. This tab does not automatically pull data from any other tab. 
 
 The tool is available using the Download button below:
 
