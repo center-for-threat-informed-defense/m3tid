@@ -13,7 +13,7 @@ To illustrate the impact of leveraging the best practices in the M3TID framework
 
 * CTI: Subscribe to a customized threat intelligence feed. 
 * DM: Dedicate additional resources to developing and tuning detection analytics for identified adversary techniques. 
-* T&E: Institute a semi-annual purple team. 
+* T&E: Institute a semi-annual adversary emulation. 
 
 Those changes result in the following updated scores and the accompanying graphs: 
 
