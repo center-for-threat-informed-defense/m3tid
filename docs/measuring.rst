@@ -41,7 +41,7 @@ Company A: In-house implementation of a nascent threat-informed defense.
 
 * CTI: The organization has CTI on IOCs and software used across multiple ATT&CK Techniques. Analysts occasionally read freely available generic reports and disseminate IOCs to the rest of the team.
 * DM: Despite excellent CTI, the company has not leveraged that CTI effectively to prioritize their investments in Defensive Measures. They apply patches as needed, have identified critical assets, collect data as per standard best-practices, run a set of imported SIGMA rules, respond to alerts as needed, and do not conduct any deception operations.
-* T&E: The company is only minimally investing in Testing & Evaluation, limiting their current testing to an annual penetration test that is not tailored to any specific adversary or set of adversary behaviors. A report is generated.
+* T&E: The company is only minimally investing in Testing & Evaluation, limiting their current testing to an annual purple team that is not tailored to any specific adversary or set of adversary behaviors. A report is generated.
 
 To aid in leveraging this methodology for assessment, this paper is being released with a Proof of Concept spreadsheet-based calculator. The screenshots below are taken from
 the Results tab of that calculator.
