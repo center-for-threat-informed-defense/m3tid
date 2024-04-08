@@ -1,7 +1,7 @@
 Appendix B - Scoring Spreadsheet
 ================================
 
-As part of the M3TID team implemented the Dimensions, Components, and Maturity Level framework, as well as the
+As part of the M3TID project, the team implemented the Dimensions, Components, and Maturity Level framework, as well as the
 measurement approach, in an Excel-based tool to make leveraging the M3TID framework more accessible for the 
 community. The tool has 6 main tabs, described below:
 
