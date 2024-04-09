@@ -12,6 +12,13 @@ defines specific elements of implementation maturity, which enables organization
 assess and to understand the current and future state of their threat-informed defense
 program.
 
+
+This project is created and maintained by the `MITRE Engenuity Center for
+Threat-Informed Defense <https://ctid.mitre-engenuity.org/>`__ in futherance of our
+mission to advance the start of the art and and the state of the practice in
+threat-informed defense globally. The project is funded by our `research participants
+<https://mitre-engenuity.org/cybersecurity/center-for-threat-informed-defense/our-work/measure-maximize-and-mature-threat-informed-defense-m3tid/#research-participants>`__.
+
 .. toctree::
     :maxdepth: 2
     :caption: Contents

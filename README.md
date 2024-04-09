@@ -1,78 +1,58 @@
-# M3TID
+# Measure, Maximize, and Mature Threat-Informed Defense
 
-<!-- TODO Put a one paragraph summary of the project here. -->
-
-The Measure, Maximize, Mature Threat-Informed Defense (M3TID) project extends this concept of leveraging Threat understanding to improve a security program by working towards an actionable definition of Threat-Informed Defense (TID) and its associated key activities. This project is created and maintained by the
-[MITRE Engenuity Center for Threat-Informed Defense](https://ctid.mitre-engenuity.org/)
-in futherance of our mission to advance the start of the art and and the state of the
-practice in threat-informed defense globally. The project is funded by our [research
-participants](https://mitre-engenuity.org/cybersecurity/center-for-threat-informed-defense/our-work/m3tid/#research-participants).
+The Measure, Maximize, and Mature Threat-Informed Defense (M3TID) project defines what
+Threat-Informed Defense (TID) is and the key activities associated with its practice.
+The project captures insights and best practices for what it means to be threat-informed
+across a security program, expanding the dimensions of Threat-Informed Defense into key
+components that organizations can implement. For each of these components, the project
+defines specific elements of implementation maturity, which enables organizations to
+assess and to understand the current and future state of their threat-informed defense
+program.
 
 **Table Of Contents:**
-
-<!--
-TODO The table of contents should include only h2-h6, NOT h1. The "Markdown All In One"
-extension for VS Code will update the TOC automatically for you:
-https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one
-Set the extension's TOC:Levels setting to "2..6"
--->
 
 - [Getting Started](#getting-started)
 - [Getting Involved](#getting-involved)
 - [Questions and Feedback](#questions-and-feedback)
-- [How Do I Contribute?](#how-do-i-contribute)
 - [Notice](#notice)
 
 ## Getting Started
 
-<!-- TODO Write one paragraph about how users should get started,
-     and update the table of resources below. -->
+Read the project website to understand the overall purpose and methodology of the
+project. Then you can use the scoring spreadsheet to apply the methodology to your own
+organization.
 
-To get started, read the project website. It provides an overview of the goals and methodologies and includes details on how and why to use this methodology.
-
-| Resource                                                                       | Description                                   |
-| ------------------------------------------------------------------------------ | --------------------------------------------- |
-| [Project Website](https://center-for-threat-informed-defense.github.io/m3tid/) | Complete documentation for the M3TID project. |
-| [Scoring Spreadsheet](docs/M3TIDScoringSpreadsheet.xlsx)                       | A spreadsheet for self-evaluation.            |
+| Resource                                                                       | Description                                                    |
+| ------------------------------------------------------------------------------ | -------------------------------------------------------------- |
+| [Project Website](https://center-for-threat-informed-defense.github.io/m3tid/) | Documents the project goals, methodology, and other resources. |
+| [Scoring Spreadsheet](docs/M3TIDScoringSpreadsheet.xlsx)                       | A spreadsheet for applying the M3TID scoring methodology.      |
 
 
 ## Getting Involved
 
-<!-- TODO Add some bullets telling users how to get involved. -->
-
 There are several ways that you can get involved with this project and help advance
 threat-informed defense:
 
-- **Review the project model and methodology and tell us what you think.** We welcome
+- **Review the project goals and methodology and tell us what you think.** We welcome
   your feedback on any aspect of the project: from high-level concepts to low-level
   technical details.
-- **Request analytics and observables.** Send your [analytic
-  requests]([/stix/attack-flow-schema-2.0.0.json](https://github.com/center-for-threat-informed-defense/m3tid/issues/new/choose))
-  to our team. As we have time, we will work them through the process and publish scores
-  and analysis.
-- **Submit your own analytics and observables.** We encourage you to use the methodology
-  to work through analytics or observables and send your results in a pull request so
-  that we can make them available to the entire community.
+- **Use the methodology and Excel workbook to score your organization.** The spreadsheet
+  provides a quick way to document the maturity of your threat-informed defense, view
+  maturity along each dimension, and calculate a maturity score.
+- **Suggest new components.** Use the contact information below to send in your ideas
+  for new threat-informed defense components that align to the three dimensions of
+  threat-informed defense.
 
 ## Questions and Feedback
 
-Please submit issues for any technical questions/concerns or contact
-[ctid@mitre-engenuity.org](mailto:ctid@mitre-engenuity.org?subject=Question%20about%20m3tid)
-directly for more general inquiries.
-
-Also see the guidance for contributors if are you interested in contributing or simply
-reporting issues.
-
-## How Do I Contribute?
-
-We welcome your feedback and contributions to help advance
-M3TID. Please see the guidance for contributors if are you
-interested in [contributing or simply reporting issues.](/CONTRIBUTING.md)
+We welcome your feedback and contributions to help advance M3TID. Please see the
+guidance for contributors if are you interested in [contributing or simply reporting
+issues.](/CONTRIBUTING.md)
 
 Please submit
-[issues](https://github.com/center-for-threat-informed-defense/m3tid/issues) for
-any technical questions/concerns or contact
-[ctid@mitre-engenuity.org](mailto:ctid@mitre-engenuity.org?subject=subject=Question%20about%20m3tid)
+[issues](https://github.com/center-for-threat-informed-defense/mappings-explorer/issues)
+for any technical questions/concerns or contact
+[ctid@mitre-engenuity.org](mailto:ctid@mitre-engenuity.org?subject=Question%20about%20M3TID)
 directly for more general inquiries.
 
 ## Notice
