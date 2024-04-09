@@ -4,9 +4,9 @@ Measure, Maximize, and Mature Threat-Informed Defense |version|
 .. image:: _static/tid.png
 
 The Measure, Maximize, and Mature Threat-Informed Defense (M3TID) project defines what
-Threat-Informed Defense (TID) is and the key activities associated with its practice.
-The project captures insights and best practices for what it means to be threat-informed
-across a security program, expanding the dimensions of Threat-Informed Defense into key
+threat-informed defense is and the key activities associated with its practice. The
+project captures insights and best practices for what it means to be threat-informed
+across a security program, expanding the dimensions of threat-informed defense into key
 components that organizations can implement. For each of these components, the project
 defines specific elements of implementation maturity, which enables organizations to
 assess and to understand the current and future state of their threat-informed defense

@@ -44,9 +44,9 @@ Crucial to this idea of threat-informed defense is this imperative of proactive 
 An effective threat-informed defense must continuously learn and evolve to optimally
 implement defensive measures to keep pace with new threats and technologies.
 
-In the sections that follow, the three main Dimensions of TID will be explained, as well
-as their key components. These components are discussed in more detail on the Key
-Components and Maturity Levels page, along with key best practices for each component.
+In the sections that follow, the three main dimensions of thread-informed defense will
+be explained, as well as their key components. These components and their best practices
+are discussed in more detail in :doc:`components/index`.
 
 Cyber Threat Intelligence - Know the Adversary
 ----------------------------------------------

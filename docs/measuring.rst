@@ -90,25 +90,25 @@ a :doc:`spreadsheet calculator <spreadsheet>`. The screenshots below are taken f
 Results tab of that calculator.
 
 .. figure:: _static/ex1scores.png
-   :alt: Overall TID and Component Scores
+   :alt: Overall Dimension and Component Scores
    :align: center
    :width: 80%
 
-   Overall TID and Component Scores
+   Overall Dimension and Component Scores
 
 .. figure:: _static/ex1kiviatdim.png
-   :alt: Radar Chart: Comparison of TID Dimensions
+   :alt: Radar Chart: Comparison of Dimensions
    :align: center
    :width: 80%
 
-   Radar Chart: Comparison of TID Dimensions
+   Radar Chart: Comparison of Dimensions
 
 .. figure:: _static/ex1kiviatall.png
-   :alt: Radar Chart: Comparison of all Key TID Components
+   :alt: Radar Chart: Comparison of all Key Components
    :align: center
    :width: 80%
 
-   Radar Chart: Comparison of all Key TID Components
+   Radar Chart: Comparison of all Key Components
 
 After an organization conducts this initial assessment and understands the current
 status of their threat informed defensive program, the scoring and associated

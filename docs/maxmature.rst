@@ -52,25 +52,25 @@ practices and maturity levels, and determines to implement the following improve
 Those changes result in the following updated scores and the accompanying graphs:
 
 .. figure:: _static/ex2scores.png
-   :alt: Improved TID and Component Scores
+   :alt: Improved Dimension and Component Scores
    :align: center
    :width: 80%
 
-   Improved TID and Component Scores
+   Improved Dimension and Component Scores
 
 .. figure:: _static/ex2kiviatdim.png
-   :alt: Radar Chart: Comparison of Improved TID Dimensions
+   :alt: Radar Chart: Comparison of Improved Dimensions
    :align: center
    :width: 80%
 
-   Radar Chart: Comparison of Improved TID Dimensions
+   Radar Chart: Comparison of Improved Dimensions
 
 .. figure:: _static/ex2kiviatall.png
-   :alt: Radar Chart: Comparison of all Improved TID Components
+   :alt: Radar Chart: Comparison of all Improved Components
    :align: center
    :width: 80%
 
-   Radar Chart: Comparison of all Improved TID Components
+   Radar Chart: Comparison of all Improved Components
 
 Tracking Improvement over Time
 ------------------------------
@@ -81,11 +81,11 @@ want to consider adding a historical record tab in their scoring spreadsheet to 
 their changes over time.
 
 .. figure:: _static/multiyearscores.png
-   :alt: Multi-Year Overall TID and Dimension Scores
+   :alt: Multi-Year Overall and Dimension Scores
    :align: center
    :width: 80%
 
-   Multi-Year Overall TID and Dimension Scores
+   Multi-Year Overall and Dimension Scores
 
 .. figure:: _static/kiviatovertime.png
    :alt: Radar Chart: Component Improvement Over Time
