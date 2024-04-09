@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "M3TID"
+project = "Measure, Maximize, Mature Threat-Informed Defense"
 author = "Center for Threat-Informed Defense"
 copyright_years = "2024"
 prs_numbers = "CT0105"
