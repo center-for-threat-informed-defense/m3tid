@@ -55,7 +55,7 @@ Adding the Threat-Informed Perspective
 --------------------------------------
 
 Threat-informed defense is not intended to replace a baseline security program but
-rather threat-informed defense enhances that basline program and gives it focus. It
+rather threat-informed defense enhances that baseline program and gives it focus. It
 enables organizations to enhance their defenses proactively and adaptively against
 evolving threats. By focusing on understanding adversaries' TTPs, organizations can
 effectively prioritize their defensive measures and make better-informed decisions about
