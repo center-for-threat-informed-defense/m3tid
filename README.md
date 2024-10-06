@@ -25,7 +25,7 @@ organization.
 | Resource                                                                       | Description                                                    |
 | ------------------------------------------------------------------------------ | -------------------------------------------------------------- |
 | [Project Website](https://center-for-threat-informed-defense.github.io/m3tid/) | Documents the project goals, methodology, and other resources. |
-| [Scoring Spreadsheet](docs/M3TIDScoringSpreadsheet.xlsx)                       | A spreadsheet for applying the M3TID scoring methodology.      |
+| [Scoring Spreadsheet](docs/extra/M3TIDScoringSpreadsheet.xlsx))                       | A spreadsheet for applying the M3TID scoring methodology.      |
 
 
 ## Getting Involved
