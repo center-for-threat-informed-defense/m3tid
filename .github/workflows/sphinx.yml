@@ -26,17 +26,23 @@ jobs:
     - uses: actions/checkout@v3
     - uses: actions/setup-python@v4
       with:
-        python-version: '3.8'
+        python-version: '3.9'
     - name: Install Poetry
-      run: curl -sSL https://install.python-poetry.org/ | python -
-    - name: Add Poetry to PATH
-      run: echo "$HOME/.poetry/bin" >> $GITHUB_PATH
-    - name: Install dependencies
+      uses: snok/install-poetry@v1
+      with:
+        version: 1.8.5
+    - name: Collect Error Logs
+      if: always()
+      uses: actions/upload-artifact@v4
+      with:
+        name: logs
+        path: /home/runner/work/**/*.log
+    - name: Install Dependencies
       run: poetry install
     - name: Build HTML docs
       run: poetry run make docs-ci
     - name: Upload HTML docs
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: m3tid-docs-html
         path: docs/_build/dirhtml/
@@ -54,14 +60,14 @@ jobs:
     - name: Setup Pages
       uses: actions/configure-pages@v2
     - name: Download HTML docs
-      uses: actions/download-artifact@v3
+      uses: actions/download-artifact@v4
       with:
         name: m3tid-docs-html
         path: docs
     - name: Upload artifact
-      uses: actions/upload-pages-artifact@v1
+      uses: actions/upload-pages-artifact@v3
       with:
         path: ./docs
     - name: Deploy to GitHub Pages
       id: deployment
-      uses: actions/deploy-pages@v1
+      uses: actions/deploy-pages@v4
