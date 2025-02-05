@@ -13,11 +13,11 @@ assess and to understand the current and future state of their threat-informed d
 program.
 
 
-This project is created and maintained by the `MITRE Engenuity Center for
-Threat-Informed Defense <https://ctid.mitre-engenuity.org/>`__ in futherance of our
+This project is created and maintained by `MITRE Center for
+Threat-Informed Defense <https://ctid.mitre.org/>`__ in futherance of our
 mission to advance the start of the art and and the state of the practice in
 threat-informed defense globally. The project is funded by our `research participants
-<https://mitre-engenuity.org/cybersecurity/center-for-threat-informed-defense/our-work/measure-maximize-and-mature-threat-informed-defense-m3tid/#research-participants>`__.
+<https://ctid.mitre.org/projects/measure-maximize-and-mature-threat-informed-defense-m3tid/>`__.
 
 .. toctree::
     :maxdepth: 2
