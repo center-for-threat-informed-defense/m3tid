@@ -36,7 +36,7 @@ jobs:
     - name: Build HTML docs
       run: poetry run make docs-ci
     - name: Upload HTML docs
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: m3tid-docs-html
         path: docs/_build/dirhtml/
@@ -54,7 +54,7 @@ jobs:
     - name: Setup Pages
       uses: actions/configure-pages@v2
     - name: Download HTML docs
-      uses: actions/download-artifact@v3
+      uses: actions/download-artifact@v4
       with:
         name: m3tid-docs-html
         path: docs
