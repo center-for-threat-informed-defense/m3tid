@@ -52,12 +52,12 @@ issues.](/CONTRIBUTING.md)
 Please submit
 [issues](https://github.com/center-for-threat-informed-defense/mappings-explorer/issues)
 for any technical questions/concerns or contact
-[ctid@mitre-engenuity.org](mailto:ctid@mitre-engenuity.org?subject=Question%20about%20M3TID)
+[ctid@mitre.org](mailto:ctid@mitre.org?subject=Question%20about%20M3TID)
 directly for more general inquiries.
 
 ## Notice
 
-Copyright 2024 MITRE Engenuity. Approved for public release. Document number(s)
+Copyright 2024 MITRE. Approved for public release. Document number(s)
 CT0105.
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this
