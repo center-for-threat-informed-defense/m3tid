@@ -59,7 +59,7 @@ motivations and typical objectives. Ultimately CTI programs enable organizations
 produce a tailored threat model of the highest priority adversary behaviors, which
 ultimately informs the rest of the defensive program. Example capabilities such as the
 `Top ATT&CK Technique Calculator
-<https://top-attack-techniques.mitre-engenuity.org/calculator>`_ can help organizations
+<https://top-attack-techniques.mitre.org/calculator>`_ can help organizations
 with this initial tailoring based on a variety of factors.
 
 .. figure:: _static/topattackttp.png
@@ -104,7 +104,7 @@ threat-informed defense. Importantly, many organizations might consider that
 threat-informed defense only applies to technical defenses, but the concept should apply
 across all aspects of a security program. An example of evolving defensive measures is
 the Center's `Summitting the Pyramid
-<https://mitre-engenuity.org/cybersecurity/center-for-threat-informed-defense/our-work/summiting-the-pyramid/>`_
+<https://mitre.org/cybersecurity/center-for-threat-informed-defense/our-work/summiting-the-pyramid/>`_
 proejct, which uses knowledge of adversary tradecraft to create more robust cyber
 detections.
 
@@ -138,9 +138,9 @@ adversary TTPs, an organization maintains a realistic picture of their security 
 For example, red or purple team exercises should leverage *adversary emulation*, which
 means replicating the behaviors and attack flow of specific, relevant adversaries. The
 graphic below shows the high level `FIN6 attack plan
-<https://medium.com/mitre-engenuity/center-releases-fin6-adversary-emulation-plan-775d8c5ebe9b>`_
+<https://medium.com/mitre/center-releases-fin6-adversary-emulation-plan-775d8c5ebe9b>`_
 taken from the Center’s `Adversary Emulation library
-<https://mitre-engenuity.org/cybersecurity/center-for-threat-informed-defense/adversary-emulation-library/>`_.
+<https://mitre.org/cybersecurity/center-for-threat-informed-defense/adversary-emulation-library/>`_.
 
 .. figure:: _static/fin6advemu.png
    :alt: FIN6 Adversary Emulation Plan
