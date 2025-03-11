@@ -87,7 +87,7 @@ the collection of new threat intelligence?
 .. rubric:: References
 
 .. [#f1] https://d3fend.mitre.org/
-.. [#f2] https://mitre.org/cybersecurity/center-for-threat-informed-defense/our-work/nist-800-53-control-mappings/
+.. [#f2] https://ctid.mitre.org/projects/nist-800-53-control-mappings/
 .. [#f3] https://www.first.org/epss/
 .. [#f4] https://mitre.org/cybersecurity/center-for-threat-informed-defense/our-work/mapping-attck-to-cve-for-impact/
 .. [#f5] https://mitre.org/cybersecurity/center-for-threat-informed-defense/our-work/atomic-data-sources/

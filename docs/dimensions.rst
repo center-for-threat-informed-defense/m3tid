@@ -59,7 +59,7 @@ motivations and typical objectives. Ultimately CTI programs enable organizations
 produce a tailored threat model of the highest priority adversary behaviors, which
 ultimately informs the rest of the defensive program. Example capabilities such as the
 `Top ATT&CK Technique Calculator
-<https://top-attack-techniques.mitre.org/calculator>`_ can help organizations
+<https://top-attack-techniques.mitre-engenuity.org/#/calculator>`_ can help organizations
 with this initial tailoring based on a variety of factors.
 
 .. figure:: _static/topattackttp.png
