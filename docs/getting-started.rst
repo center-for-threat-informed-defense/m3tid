@@ -92,9 +92,9 @@ Identify
   Inform understanding of risk and risk measurement based on an informed understanding
   of particular adversaries that are known to target a specific industry, geographical
   area, or technology by leveraging the `ATT&CK Workbench
-  <https://mitre.org/cybersecurity/center-for-threat-informed-defense/our-work/attck-workbench/>`_
+  <https://ctid.mitre.org/projects/attck-workbench/>`_
   or `Sightings
-  <https://mitre.org/cybersecurity/center-for-threat-informed-defense/our-work/sightings-ecosystem/>`_.
+  <https://ctid.mitre.org/projects/sightings-ecosystem/>`_.
 
 Protect
   Prioritizing patch deployment based on the probability that a relevant adversary will
@@ -136,9 +136,9 @@ Respond
 Recover
   Organizations can validate their backup and recovery plans by testing themselves
   against realistic adversary tradecraft using the `Adversary Emulation Library
-  <https://mitre.org/cybersecurity/center-for-threat-informed-defense/adversary-emulation-library/>`_
+  <https://ctid.mitre.org/resources/adversary-emulation-library/>`_
   or `Micro Emulation Plans
-  <https://mitre.org/cybersecurity/center-for-threat-informed-defense/our-work/micro-emulation-plans/>`_.
+  <https://ctid.mitre.org/projects/micro-emulation-plans/>`_.
   These are particularly valuable for testing recovery in ransomware scenarios.
 
 The CSF is primarily focused on an understanding of the systems being defended and

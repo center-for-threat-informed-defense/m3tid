@@ -104,7 +104,7 @@ threat-informed defense. Importantly, many organizations might consider that
 threat-informed defense only applies to technical defenses, but the concept should apply
 across all aspects of a security program. An example of evolving defensive measures is
 the Center's `Summitting the Pyramid
-<https://mitre.org/cybersecurity/center-for-threat-informed-defense/our-work/summiting-the-pyramid/>`_
+<https://ctid.mitre.org/projects/summiting-the-pyramid/>`_
 proejct, which uses knowledge of adversary tradecraft to create more robust cyber
 detections.
 
@@ -140,7 +140,7 @@ means replicating the behaviors and attack flow of specific, relevant adversarie
 graphic below shows the high level `FIN6 attack plan
 <https://medium.com/mitre/center-releases-fin6-adversary-emulation-plan-775d8c5ebe9b>`_
 taken from the Center’s `Adversary Emulation library
-<https://mitre.org/cybersecurity/center-for-threat-informed-defense/adversary-emulation-library/>`_.
+<https://ctid.mitre.org/resources/adversary-emulation-library/>`_.
 
 .. figure:: _static/fin6advemu.png
    :alt: FIN6 Adversary Emulation Plan
