@@ -70,7 +70,9 @@ How effectively do test results cause improvements in defensive measures?
 .. rubric:: References
 
 .. [#f1] https://caldera.mitre.org/
-.. [#f2] https://github.com/center-for-threat-informed-defense/adversary_emulation_library
+.. [#f2] https://ctid.mitre.org/resources/adversary-emulation-library/
+
+
 .. [#f3] https://ctid.mitre.org/projects/attack-flow/
 .. [#f4] https://ctid.mitre.org/projects/micro-emulation-plans/
 .. [#f5] https://posts.specterops.io/reactive-progress-and-tradecraft-innovation-b616f85b6c0a

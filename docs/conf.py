@@ -81,10 +81,10 @@ html_context = {
 }
 
 footer_links = [
-    ["Summiting the Pyramid", "https://ctid.mitre.org/videos/interview-with-attack-creator/",],
+    ["Summiting the Pyramid", "https://center-for-threat-informed-defense.github.io/summiting-the-pyramid/",],
     ["CTI Blueprints", "https://ctid.mitre.org/projects/cti-blueprints/",],
     ["Adversary Emulation Library", "https://ctid.mitre.org/resources/adversary-emulation-library/"],
-    ["Mappings Explorer", "https://ctid.mitre.org/projects/mappings-explorer/"],
+    ["Mappings Explorer", "https://center-for-threat-informed-defense.github.io/mappings-explorer/"],
 ]
 
 html_theme_options = {

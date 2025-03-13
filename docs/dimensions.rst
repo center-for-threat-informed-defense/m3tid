@@ -138,7 +138,7 @@ adversary TTPs, an organization maintains a realistic picture of their security 
 For example, red or purple team exercises should leverage *adversary emulation*, which
 means replicating the behaviors and attack flow of specific, relevant adversaries. The
 graphic below shows the high level `FIN6 attack plan
-<https://medium.com/mitre/center-releases-fin6-adversary-emulation-plan-775d8c5ebe9b>`_
+<https://ctid.mitre.org/projects/fin6-adversary-emulation-plan/>`_
 taken from the Center’s `Adversary Emulation library
 <https://ctid.mitre.org/resources/adversary-emulation-library/>`_.
 
