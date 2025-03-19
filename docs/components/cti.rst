@@ -72,6 +72,6 @@ What threat information is passed along within an organization? [#f4]_
 .. rubric:: References
 
 .. [#f1] https://center-for-threat-informed-defense.github.io/summiting-the-pyramid/levels/
-.. [#f2] https://mitre-engenuity.org/cybersecurity/center-for-threat-informed-defense/our-work/top-attack-techniques/
-.. [#f3] https://mitre-engenuity.org/cybersecurity/center-for-threat-informed-defense/our-work/threat-report-attck-mapper-tram/
+.. [#f2] https://ctid.mitre.org/projects/top-attack-techniques/
+.. [#f3] https://ctid.mitre.org/projects/threat-report-attck-mapper-tram/
 .. [#f4] https://github.com/center-for-threat-informed-defense/cti-blueprints/wiki

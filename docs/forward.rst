@@ -19,7 +19,7 @@ dimension.
    Alignment of Center Projects to M3TID
 
 For more information about these projects, visit the `Center's Our Work
-<https://mitre-engenuity.org/cybersecurity/center-for-threat-informed-defense/our-work/>`__
+<https://ctid.mitre.org/projects/>`__
 page.
 
 The M3TID maturity model is meant to be a straightforward, easy-to use tool for
