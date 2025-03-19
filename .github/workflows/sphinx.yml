@@ -38,7 +38,7 @@ jobs:
       - name: Upload HTML docs
         uses: actions/upload-artifact@v4
         with:
-          name: threat-modeling-with-attack-docs-html
+          name: m3tid-docs-html
           path: docs/_build/dirhtml/
 
   github_pages:
