@@ -15,7 +15,7 @@ program.
 
 This project is created and maintained by `MITRE Center for
 Threat-Informed Defense <https://ctid.mitre.org/>`__ in futherance of our
-mission to advance the start of the art and and the state of the practice in
+mission to advance the state of the art and the state of the practice in
 threat-informed defense globally. The project is funded by our `research participants
 <https://ctid.mitre.org/projects/measure-maximize-and-mature-threat-informed-defense-m3tid/>`__.
 
