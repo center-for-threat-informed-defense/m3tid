@@ -2,77 +2,57 @@
 Test & Evaluation
 ==================
 
-This section outlines the key components that have been identified for the Test &
-Evaluation dimension as well as maturity levels within the components. These components
+This section outlines the components that have been identified for the Test &
+Evaluation dimension as well as the levels within the components. These components
 and levels form the basis for assessing how threat informed an organization’s T&E
-program is. This assessment can be conducted using the companion spreadsheet published
-with this white paper.
+program is. 
 
 Type of Testing
 ----------------
 
-Are cybersecurity tests focused on helping defenders improve against prioritized
-threats?
+What type of security tests are conducted to evaluate defensive measures?
 
-1. None
-2. Security Control / Risk Assessment (reactive, compliance-focused)
-3. Vulnerability Assessment / Penetration Test (reactive, threat-focused)
-4. Adversary Emulation (proactive, threat-focused) [#f1]_ [#f2]_
-5. Purple Teaming (proactive, threat-focused, collaborative)
+1. Reactive, compliance-focused, e.g. security control assessment
+2. Reactive, IOC-focused, e.g. vulnerability assessment
+3. Proactive, threat-focused, e.g. adversary emulation
+4. Proactive, threat-focused, collaborative, e.g. Purple Team
 
 Frequency of Testing
 -----------------------------
 
-Do your tests keep pace with changing adversaries and defended technologies?
+How frequently are security tests conducted?
 
-1. None
-2. Annual
-3. Semi-Annual
-4. Monthly
-5. Continuous
+1. Annual or Ad hoc
+2. Semi-Annual
+3. Monthly
+4. Continuous
 
 Test Planning
 ------------------------
 
 Are tests coordinated and prioritized on the most relevant threat behaviors?
 
-1. None
-2. Ad hoc
-3. Deliberately planned and scoped, informed by Threat Actor or prioritized TTPs [#f3]_
-4. Collaboratively planned with Defenders, focused on known gaps and validating coverage
-5. Collaboratively planned with Defenders, linked to organizational Metrics or KPIs
+1. No formal planning or ad hoc planning
+2. Deliberately planned and scoped, informed by threats
+3. Collaboratively planned with defenders, focused on known gaps and validating coverage
+4. Collaboratively planned with defenders, linked to organizational metrics or KPIs
 
 Test Execution
 ---------------------------------
 
 Does testing cover adversary TTPs in addition to traditional IOCs?
 
-1. None
-2. Scanners or other tooling, not threat-focused
-3. Commodity tooling, IOC-focused
-4. Commodity tooling, TTP-focused, minimum 1 implementation of a technique [#f4]_
-5. Commodity or Custom tooling, TTP-focused, multiple (including evasive [#f5]_ )
-   implementations of a technique
+1. Not threat-focused, e.g. scanners
+2. IOC-focused, e.g. commodity tooling
+3. TTP-focused, single procedures of techniques
+4. TTP-focused, multiple procedures of techniques, custom tooling
 
 Test Results
 ---------------------------------
 
 How effectively do test results cause improvements in defensive measures?
 
-1. None
-2. Results generated
-3. Results generated, leadership interest, actions taken
-4. Results formally tracked; findings drive detection improvements and architectural
-   changes
-5. Results formally tracked; findings drive organizational programs, hiring, training,
-   and other significant investments
-
-.. rubric:: References
-
-.. [#f1] https://caldera.mitre.org/
-.. [#f2] https://ctid.mitre.org/resources/adversary-emulation-library/
-
-
-.. [#f3] https://ctid.mitre.org/projects/attack-flow/
-.. [#f4] https://ctid.mitre.org/projects/micro-emulation-plans/
-.. [#f5] https://posts.specterops.io/reactive-progress-and-tradecraft-innovation-b616f85b6c0a
+1. Results generated
+2. Actions taken with internal team, e.g. playbooks updated
+3. Results formally tracked; findings drive detection improvements and architectural changes
+4. Results formally tracked; findings drive organizational programs, hiring, training, and other significant investments
