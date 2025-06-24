@@ -4,7 +4,7 @@ Defensive Measures
 
 This section outlines the components that have been identified for the Defensive
 Measures dimension as well as the levels within the components. These components
-and levels form the basis for assessing how threat informed an organization’s Defensive
+and levels form the basis for assessing how threat informed an organization's Defensive
 program is.
 
 Foundational Security
@@ -48,7 +48,7 @@ threats?
 3. Informed by knowledge of threat actor, proactive hunting
 4. Campaign-focused
 
-Deception Operations [#f8]_
+Deception Operations
 ---------------------------------
 
 How extensive and effective are deception operations at enabling defensive objectives and the collection of new threat intelligence?

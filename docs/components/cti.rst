@@ -7,7 +7,7 @@ as well as the levels within the components. These components and levels form th
 basis for assessing how threat informed an organization’s CTI program is.
 
 Depth of Threat Intelligence
-----------------------------
+-------------------------------------
 
 What level of information (roughly relative to the Pyramid of Pain) is being used to
 track adversaries?
@@ -19,7 +19,7 @@ track adversaries?
 4. Low-variance adversary behaviors and associated observables which are very difficult to change
 
 Breadth of Threat Intelligence
------------------------------
+-------------------------------------
 
 Relative to the depth component, roughly how many ATT&CK techniques are understood at that level of depth? 
 
@@ -29,7 +29,7 @@ Relative to the depth component, roughly how many ATT&CK techniques are understo
 4. Prioritized targeted techniques
 
 Relevance of Threat Intelligence
-------------------------
+-------------------------------------
 
 How much does the threat information relate to your organization? 
 
@@ -39,7 +39,7 @@ How much does the threat information relate to your organization?
 4. Customized briefings from external groups
 
 Utilization of Threat Intelligence
----------------------------------
+-------------------------------------
 
 How well does your organization make use of the threat information?
 
@@ -49,7 +49,7 @@ How well does your organization make use of the threat information?
 4. Analyzed automatically
 
 Dissemination of Threat Reporting
----------------------------------
+-------------------------------------
 
 What threat information is passed along within an organization?
 
